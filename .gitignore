@@ -1,0 +1,8 @@
+*.bak
+*.BAK
+*.htm
+*.log
+*.lnk
+*.zip
+build-vsdc3ConsGetOsc-Desktop_Qt_6_1_3_MinGW_64_bit-Debug/
+sav/
