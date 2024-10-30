@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 5.0.0, 2024-10-29T19:50:33. -->
+<!-- Written by QtCreator 5.0.0, 2024-10-30T19:34:24. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -237,14 +237,14 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:D:/DC/!W/Prj/VSDC4/pc_software/vsdc3ConsGetOsc/vsdc3ConsGetOsc.pro</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/DC/!W/Prj/VSDC4/pc_software/vsdc3ConsGetOsc/vsdc3ConsGetOsc.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">vsdc3ConsGetOsc2</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:D:/D/Proj/Sno/Test4Sorft/VsTest/vsdc3ConsGetOsc/vsdc3ConsGetOsc.pro</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/D/Proj/Sno/Test4Sorft/VsTest/vsdc3ConsGetOsc/vsdc3ConsGetOsc.pro</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="bool" key="RunConfiguration.UseTerminal">true</value>
     <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/DC/!W/Prj/VSDC4/pc_software/build-vsdc3ConsGetOsc-Desktop_Qt_6_1_3_MinGW_64_bit-Debug</value>
    </valuemap>
    <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
